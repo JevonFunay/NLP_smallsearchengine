@@ -1,0 +1,6 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+tugas_nlp_pencarian_asag.zip
