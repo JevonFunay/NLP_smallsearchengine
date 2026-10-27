@@ -8,10 +8,13 @@ Index korpus pengumpulan belum dibuat karena tidak ada artikel yang valid.
 ZIP adalah paket program yang masih perlu dilengkapi, belum siap dikumpulkan.
 
 IDENTITAS KELOMPOK — WAJIB DIISI
-Nama kelompok/kelas: [ISI]
+Nama kelompok/kelas: NLPTA
 Jumlah anggota: [ISI]
 Nama anggota | NIM
 [ISI NAMA ANGGOTA] | [ISI NIM]
+71230966 / Jevon Christian Putra Funay
+71230987 / Prastha Pradipta Pursa
+71231033 / Imel Rantetandung
 Tambahkan satu baris untuk setiap anggota; tidak ada identitas yang dikarang.
 Setiap anggota mengumpulkan 5 artikel. Target = jumlah anggota x 5.
 Program membaca semua file yang tersedia tanpa menetapkan jumlah hardcode.
@@ -25,8 +28,50 @@ Tidak menggunakan embedding, BERT, LLM, API AI, database, atau server.
 Kesamaan cosine adalah skor numerik; bukan probabilitas atau akurasi.
 
 DAFTAR DOKUMEN DAN METADATA SUMBER
-Kode | Judul | Nama file | URL sumber
-[BELUM ADA ARTIKEL — ISI SETELAH ARTIKEL ASLI DITAMBAHKAN]
+Fast and Easy Short Answer Grading with High Accuracy
+https://aclanthology.org/N16-1123/
+
+Pre-Training BERT on Domain Resources for Short Answer Grading
+https://aclanthology.org/D19-1628/
+
+Distributed Vector Representations for Unsupervised Automatic Short Answer Grading
+https://aclanthology.org/W16-4904/
+
+Wisdom of Students: A Consistent Automatic Short Answer Grading Technique
+https://aclanthology.org/W16-6324/
+
+Text-to-Text Semantic Similarity for Automatic Short Answer Grading
+https://aclanthology.org/E09-1065/
+
+ACTA: Short-Answer Grading in High-Stakes Medical Exams
+https://aclanthology.org/2023.bea-1.36/
+
+ExASAG: Explainable Framework for Automatic Short Answer Grading
+https://aclanthology.org/2023.bea-1.29/
+
+Get Semantic With Me! The Usefulness of Different Feature Types for Short-Answer Grading
+https://aclanthology.org/C16-1206/
+
+A Fluctuation Smoothing Approach for Unsupervised Automatic Short Answer Grading
+https://aclanthology.org/W16-4911/
+
+Learning to Grade Short Answer Questions using Semantic Similarity Measures and Dependency Graph Alignments
+https://aclanthology.org/P11-1076/
+
+Identifying Patterns For Short Answer Scoring Using Graph-based Lexico-Semantic Text Matching
+https://aclanthology.org/W15-0612/
+
+Universal Automatic Short Answer Grading (ASAG) Model: A Comprehensive Approach
+https://www.jisem-journal.com/index.php/journal/article/view/11686/5438
+
+Automatic Grading of Short Answers Using Large Language Models in Software Engineering Courses
+https://www.semanticscholar.org/paper/Automatic-Grading-of-Short-Answers-Using-Large-in-Duong-Meng/2fcdd7d543b2fa340b9a4e5fc65527da7c0eb700
+
+Text-to-Text Semantic Similarity for Automatic Short Answer Grading
+https://aclanthology.org/E09-1065/
+
+Inject Rubrics into Short Answer Grading System
+https://aclanthology.org/D19-6119/
 
 Metadata masukan: corpus/metadata.csv, dengan header:
 filename,title,source_url
